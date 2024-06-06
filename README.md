@@ -54,41 +54,45 @@ Place:
 
 # Conclusion and Recommendations
 
+
 Conclusion:
 
-1. The Highest and Lowest sales rate
-* From the bar chart "Supermarket Highest and Lowest sales rate", it is evident that 'Wines' has the highest sales rate, followed by 'Mnt Meats', while 'Fruits' has the lowest sales rate.
+1. From the analysis, we know that the highest sales in this supermarket come from the Wines category, totaling 620,402. This is followed by Meats, while Fruits have the lowest sales.
+2. From the segment distribution, we know that the "Need Attention" segment is the largest, with 715 customers in it.
+3. The distribution of segment income shows that the "Need Attention" segment has the largest bubble, with total spending of 349,649 and an income of 34,073,554.
+4. The average spending on wines is the highest in every segment compared to other products.
+5. Campaign engagement among customers is low, with only 27.77% of customers participating in campaigns. This suggests that customers pay little attention to the supermarket's campaigns.
+6. The distribution of campaign participation shows that the most engagement occurred during the last campaign. This indicates that the last campaign was the most successful compared to other campaigns.
 
-2. Segmenting Each Customer Based on RFM Score (Recency,Frequency,Monetary)
-* The most distribution from the segment of customers is "Need Attention" who has the most distribution than the other. and the lowest distribution is Hibernating.
-* The bar chart "Average Spending Produtcs by Each Segment" shows the spending patterns, but it could be further enhanced by explicitly showing which products are most popular in each segment.
-
-3. Distribution Each Segment Based by Income
-* The "Segment by Income" scatterplot shows the income distribution across different segments.
-
-4. Analyze the Supermarket Campaign by Segment Related to Sales Rate
-* The "Pie Chart Campaign" and "Distribution of Campaign per Batch" provide some insights, but a more detailed analysis of sales rates pre- and post-campaign could strengthen this.
-* The segmented bar charts give an overview, but adding a comparative analysis of revenue changes per campaign batch would provide more depth.
 
 Recommendations:
 
-1. Enhance Product Focus in Campaigns:
-* Highlight High-Selling Products
-* Revitalize Low-Selling Products
-2. Optimize Customer Segmentation:
-* Personalize Offer Based on RFM Scores
-* Target High-Value Segments
-3. Leverage Income Data for Better Targeting:
-* Income-Based Campaign
-4. Enhance Campaign Effectiveness Analysis:
-* Track Campaign Impact
-* Optimize Campaign Batches
-5. Increase Engagement Through Personalized Campaigns:
-* Multi-Channel Engagement
-* Loyalty Programs
-6. Focus on Customer Retention:
-* Engage At-Risk and Hibernating Customers
-* Improve Customer Experience
-7. Data-Driven Decision Making:
-* Continuous Monitoring
-* A/B Testing
+1. Leverage the Success of the Last Campaign:
+* Analyze the elements that contributed to the success of the last campaign. Was it the timing, the type of promotion, the channels used, or the products featured? Use these successful elements as a template for future campaigns.
+
+2. Target the "Need Attention" Segment:
+* Since the "Need Attention" segment is the largest, tailor campaigns specifically to engage these customers. Offer personalized promotions and discounts that cater to their preferences and spending patterns.
+
+3. Focus on Popular Product Categories:
+* Given that Wines and Meats are the highest-selling categories, create campaigns that highlight these products. Offer special discounts, bundle deals, or loyalty rewards for purchases in these categories to boost sales further.
+
+4. Increase Campaign Awareness and Engagement:
+* Since overall campaign engagement is low, invest in better marketing strategies to increase awareness. Use multiple channels such as social media, email newsletters, in-store promotions, and advertisements to reach a wider audience. Consider interactive campaigns that involve customers directly, such as contests, challenges, or referral programs.
+
+5. Highlight Benefits and Incentives:
+* Clearly communicate the benefits of participating in campaigns, such as significant savings, exclusive deals, or loyalty points. Make sure these incentives are compelling enough to motivate customers to take part.
+
+6. Utilize Data for Personalization:
+* Use customer data to personalize campaigns. Segment customers based on their purchasing behavior, preferences, and demographics to deliver targeted promotions that are more likely to resonate with them.
+
+7. Enhance In-Store Experience:
+* Ensure that in-store displays and promotions are attractive and easily noticeable. Use eye-catching signage and product placements to draw attention to the campaigns.
+
+8. Encourage Repeat Participation:
+* Design campaigns that encourage repeat participation, such as multi-purchase discounts or loyalty programs where customers earn rewards for continuous engagement.
+
+Tableau Dashboard:
+<https://public.tableau.com/views/RFMCustomerSegmentation_17174894733950/DB2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link>
+
+Tableau Story:
+<https://public.tableau.com/views/Book1_17174891802280/Story1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link>
